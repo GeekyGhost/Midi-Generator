@@ -1,6 +1,6 @@
 # Midi-Generator
 
-#Note, Running the included .bat file will create the venv and install the requirements as well as run the main .py script to launch the UI. You just have to cntrl click the link in the cmd window to launch the Gradio UI. Also there's two main scripts and you can use whichever you like, just update the .bat file with the one you want to run. Slightly different UIs and functions. 
+#Notes: Made with significant help from chatGPT4. Running the included .bat file will create the venv and install the requirements as well as run the main .py script to launch the UI. You just have to cntrl click the link in the cmd window to launch the Gradio UI. Also there's two main scripts and you can use whichever you like, just update the .bat file with the one you want to run. Slightly different UIs and functions. 
 
 This is a work in progress and mainly a test for something else, but working on this helps me with that lol. 
 
