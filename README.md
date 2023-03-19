@@ -14,7 +14,7 @@ Installation
 To install the script and its dependencies, follow these steps:
 
 Open the Command Prompt by typing cmd in the Start menu search bar and pressing Enter.
-Clone the script's repository by running the following command: git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git (replace YOUR_USERNAME and YOUR_REPOSITORY with your GitHub username and the name of the repository where the script is stored).
+Clone the script's repository by running the following command: git clone https://github.com/GeekyGhost/Midi-Generator.git.
 Navigate to the directory where the repository was cloned by running the following command: cd YOUR_REPOSITORY (replace YOUR_REPOSITORY with the name of the repository).
 Install the required packages by running the following command: pip install -r requirements.txt.
 Usage
