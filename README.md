@@ -33,3 +33,8 @@ If you encounter any issues while installing or using the script, try the follow
 Make sure you have installed all the required software and packages.
 Check that you have an active internet connection, as the script uses the internet to download some dependencies.
 If you encounter any error messages, try searching online for a solution or asking for help on a programming forum or community. Be sure to include the full error message in your search or post for better results.
+
+
+The circle_of_fifths function is used to generate a chord progression based on the circle of fifths, which is a common progression in music. The create_midi_file function creates a MIDI file based on the chord progression, tempo, and song duration. The play_midi function uses the create_midi_file function to create a MIDI file and plays it. The generate_midi function takes four chords, tempo, and song duration as input, generates a MIDI file using the play_midi function, and saves it to a temporary file.
+
+The gradio library is used to create a graphical user interface (GUI) for the MIDI generator. The GUI includes four dropdown menus for selecting chords, a number input for selecting the tempo, and a slider input for selecting the song duration. The output is a generated MIDI file, which is displayed as a file download link.
